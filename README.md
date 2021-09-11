@@ -11,5 +11,8 @@ Previously we had conducted a series on Arduino, so if you don't know about Ardu
 
 ## Prerequisites required:
 1. Laptop with Arduino IDE installed.
-2. 2. Basic Knowledge of Arduino and programming.
-3. 3. Arduino Uno R3 (if you can buy it before the workshop).
+2. Basic Knowledge of Arduino and programming.
+3. Arduino Uno R3 (if you can buy it before the workshop).
+4. 1K Ohm Resistor
+5. Piezo Speakers
+(All the above mentioned are not mandatory, if you can afford then it'll be better to have hands-on)
